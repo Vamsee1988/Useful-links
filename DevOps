@@ -1,10 +1,12 @@
 Tutorials
 =========
-https://devopsideas.com/series/ansible-tutorial/
-  1. https://devopsideas.com/ansible-tutorial-introduction-and-installation-of-ansible/
-  2. https://devopsideas.com/ansible-configuration-and-inventory/
-  3. https://devopsideas.com/ansible-local-setup-using-vagrant-virtualbox/
-  4. https://devopsideas.com/ansible-ad-hoc-commands-usage/
+Ansible:
+  https://github.com/ayyappa1/Ansible
+  https://devopsideas.com/series/ansible-tutorial/
+    1. https://devopsideas.com/ansible-tutorial-introduction-and-installation-of-ansible/
+    2. https://devopsideas.com/ansible-configuration-and-inventory/
+    3. https://devopsideas.com/ansible-local-setup-using-vagrant-virtualbox/
+    4. https://devopsideas.com/ansible-ad-hoc-commands-usage/
   
   
  Quality
@@ -20,6 +22,10 @@ https://devopsideas.com/series/ansible-tutorial/
     
   Jenkins:
     https://www.level-up.one/6-of-my-favorite-jenkins-plugins/
+  
+  
+    
+    
     
  
   
